@@ -3,14 +3,13 @@ body {
 }
 
 .clock-container {
-  background: #3c008c;
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.clock {
+.clock-face {
   width: 500px;
   height: 500px;
   border: 14px double #dd7a00;
