@@ -33,7 +33,7 @@ body {
   left: 240px;
 }
 
-.min-hand {
+#min-hand {
   position: absolute;
   right: 50%;
   bottom: 50%;
@@ -43,7 +43,7 @@ body {
   transform: rotate(90deg);
 }
 
-.hour-hand {
+#hour-hand {
   position: absolute;
   right: 50%;
   bottom: 50%;
@@ -53,7 +53,7 @@ body {
   transform: rotate(90deg);
 }
 
-.second-hand {
+#second-hand {
   position: absolute;
   right: 50%;
   bottom: 50%;
