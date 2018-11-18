@@ -30,3 +30,10 @@ const time = () => {
 };
 
 setInterval(time, 1000);
+
+// //TODO:
+// 1. user can set alert for whatever
+// 2. time to sleep
+// 3. time for dinner
+// 4. time for lunch
+// 5. alert pops up at that time
